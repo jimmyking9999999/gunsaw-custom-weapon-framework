@@ -91,3 +91,13 @@ Open starting gunsaw, a console will open alongside the app, displaying potentia
   
 Uh-oh. Report it here and I'll try to fix it ASAP!
 
+- **How can I access my weapons in-game?**
+
+`P` and `Ctrl + P` allow you to inject a random weapon into your inventory, or spawn one into the air for testing purposes!
+
+## Credits
+- @.redsphere., for working on the mod's framework with me early on and providing valuable feedback and testing, and actually kicking the project off
+- @ae1oured, for creating half of the weapons and art you see in the mod
+- Two placeholder images from the terraria Calamity mod weapons
+- Sounds from pixabay and VFX from itch.io's Pixel FX Designer
+
