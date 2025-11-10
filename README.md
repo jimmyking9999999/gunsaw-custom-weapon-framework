@@ -12,11 +12,11 @@ Mod to add custom weapon functionality into itch.io game Gunsaw, where anyone ca
 - Highly customizable melee modifiers, such as hitlag, multi-hit combos, swing and impact animations, and aiming
 
 **Custom hitscan-based weapons**
-- Bullet amounts, recoil, knockback, penetration, self-knockback multiplier, crit multiplier, laser and farsight
+- Bullet amounts, bleed, recoil, knockback, penetration, self-knockback multiplier, crit multiplier, laser and farsight
 
 **Special flags and mechanics**
 - Burst fire, which shoot a burst per click
-- Weapon silencers, which do not alert enemies upon firing
+- Charged weapons
 
 **Customizable visuals**
 - Customizable sprites for each weapon, projectile, visual effect, empty magazine weapon, magazine, etc..
@@ -75,7 +75,6 @@ Alternatively, you can instead choose to edit pre-existing files in the `CustomW
 - Projectile ricochet may not bounce and instead do a 360* turn
 
 ## Planned Features
-- Charge weapons. Hold to charge and lift to fire
 - Particles, enhanced lightning
 
 ## FAQ
@@ -95,9 +94,23 @@ Uh-oh. Report it here and I'll try to fix it ASAP!
 
 `P` and `Ctrl + P` allow you to inject a random weapon into your inventory, or spawn one into the air for testing purposes!
 
+Additional debug methods:
+
+Typing `Numkey 2/8` or `Numkey 4/6` and pressing `Ctrl + Shift + Alt` will adjust the gun position X/Y and update the weapon file. Pressing `Ctrl + Shift` will adjust the barrel position only, but requires you to get a new weapon to see changes
+
+`Ctrl + R` will reload weapon stats, so you can edit the file and see the changes in-game instantly.
+
+`O` will spawn a unarmed baron enemy to test weapons on
+
 ## Credits
 - @.redsphere., for working on the mod's framework with me early on and providing valuable feedback and testing, and actually kicking the project off
-- @ae1oured, for creating half of the weapons and art you see in the mod
-- Two placeholder images from the terraria Calamity mod weapons
+- Three placeholder images from the terraria Calamity mod weapons
 - Sounds from pixabay and VFX from itch.io's Pixel FX Designer
+
+For the wonderful weapon packs in the current version
+- @ae1oured
+- @khy166
+- @moon.xi
+- @zombie_9604
+
 
