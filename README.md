@@ -1,4 +1,4 @@
-# gunsaw-custom-weapon-framework
+# Gunsaw Custom Weapon Framework Mod (CWF)
 Mod to add custom weapon functionality into itch.io game Gunsaw, where anyone can add weapons to via a web-based modular .txt file system.
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/40c13f6f-a5cd-425f-90bd-f00f74a479b8" />
 
