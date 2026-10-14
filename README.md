@@ -107,10 +107,21 @@ Typing `Numkey 2/8` or `Numkey 4/6` and pressing `Ctrl + Shift + Alt` will adjus
 - Three placeholder images from the terraria Calamity mod weapons
 - Sounds from pixabay and VFX from itch.io's Pixel FX Designer
 
-For the wonderful weapon packs in the current version
-- @ae1oured
-- @khy166
-- @moon.xi
-- @zombie_9604
+Most custom weapon packs were obtained in the Custom Weapon Framework thread on discord (#art, in discord.gg/targetplanet):
 
+Borgan Invasion pack - Ashtray (sturmgelin)
+TapeMan's Cold war armory (Update 2) - TapeMan (dapemanripoff)
+Ae1oURed's Merc Fleet Pack - Ae1oured (ae1oured)
+Kingslayer (v2.5) - Haribunawa (haribunawa)
+NY HORISONT (v3.3)- Haribunawa (haribunawa)
+BEYOND PARADISE (v5) - Haribunawa (haribunawa)
+PARADISE ASCENDING (v1) - Haribunawa (haribunawa)
+PARABELLUM - Khy (khy166)
+Beyond the ring (v1.2) - ILikePie (ilikepie12281)
+Close Quarter (v1.2) - Lincy (.lincy)
+Enter The Gungeon - MonXi (moon.xi)
+Zombie's Custom Armament - casper (zombie_9604)
+
+Thanks for playing!
+- Jimmyking (jimmy_king)
 
